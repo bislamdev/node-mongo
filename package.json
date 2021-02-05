@@ -1,0 +1,14 @@
+{
+  "name": "node-mongo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "Node MongoDB Example",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "dependencies": {
+    "mongodb": "^3.6.4"
+  }
+}
